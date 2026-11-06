@@ -73,7 +73,7 @@ Windows 10 / 11. Distributed through Microsoft Store.
 
 Use **[GitHub Issues](https://github.com/n1viewer/n1-viewer/issues)** to report bugs, compatibility problems, performance issues or suggest improvements. Include your N1 version, Windows version, hardware and reproduction steps.
 
-Version announcements and fixes: **[GitHub Releases](https://github.com/n1viewern/n1-viewer/releases)**.
+Version announcements and fixes: **[GitHub Releases](https://github.com/n1viewer/n1-viewer/releases)**.
 
 ## 🎁 Become a Tester — Get a Full-Version License
 
