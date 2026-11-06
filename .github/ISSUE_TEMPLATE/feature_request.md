@@ -1,4 +1,3 @@
-
 ---
 name: Feature Request
 about: Suggest an improvement or new feature for N1 Viewer
