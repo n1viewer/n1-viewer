@@ -71,9 +71,9 @@ Windows 10 / 11. Distributed through Microsoft Store.
 
 ## 🐛 Bug Reports & Feature Requests
 
-Use **[GitHub Issues](https://github.com/maxwedru-design/n1-viewer/issues)** to report bugs, compatibility problems, performance issues or suggest improvements. Include your N1 version, Windows version, hardware and reproduction steps.
+Use **[GitHub Issues](https://github.com/n1viewer/n1-viewer/issues)** to report bugs, compatibility problems, performance issues or suggest improvements. Include your N1 version, Windows version, hardware and reproduction steps.
 
-Version announcements and fixes: **[GitHub Releases](https://github.com/maxwedru-design/n1-viewer/releases)**.
+Version announcements and fixes: **[GitHub Releases](https://github.com/n1viewern/n1-viewer/releases)**.
 
 ## 🎁 Become a Tester — Get a Full-Version License
 
@@ -86,7 +86,7 @@ We're looking for active testers to help improve N1 Viewer!
 
 **Active testers who help identify and report bugs can receive a free full-version license key after testing.**
 
-**[Start Free Trial](https://apps.microsoft.com/detail/9ntlxfcnw1cn) · [Report an Issue](https://github.com/maxwedru-design/n1-viewer/issues)**
+**[Start Free Trial](https://apps.microsoft.com/detail/9ntlxfcnw1cn) · [Report an Issue](https://github.com/n1viewer/n1-viewer/issues)**
 
 ---
 
