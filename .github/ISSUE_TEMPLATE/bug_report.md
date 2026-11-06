@@ -1,4 +1,3 @@
-
 ---
 name: Bug Report
 about: Report a bug in N1 Viewer
